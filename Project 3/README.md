@@ -238,12 +238,12 @@ Open `index.html` in your preferred web browser.
 ## 📸 Screenshots
 
 ### 🖥️ Desktop View
-
-*Add project screenshot here*
+<img src="image.png/>
+<p>rest in previous task2</p>
 
 ### 📱 Mobile View
 
-*Add project screenshot here*
+<img src="2.png/>
 
 ---
 
